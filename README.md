@@ -1,2 +1,3 @@
 # OpenCV-Work
-My work in image proccesing using opencv library
+OpenCV is a cross-platform library using which we can develop real-time computer vision applications. It mainly focuses on image processing, video capture and analysis including features like face detection and object detection. Since, OpenCV is just a very huge library. Image-Processing OpenCV Tutorials aim to collect the basic code and techniques of OpenCV in Python at a single place. Future planning:- Once the basic part of OpenCV in Python is covered then we will move for other languages like C++, Java etc. After that it aims to move towards Machine learning techniques in OpenCV.
+Here, basic part includes contours, thresholding, canny-edge, histogram, haarcascade etc. These techniques can directly implement in other projects which are using OpenCV techniques.
